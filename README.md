@@ -1,3 +1,6 @@
 # hello-world
-this is my first github repository
-this is the first change in branch:readme-edits 
+
+this is my github repository 
+
+this is my first branch
+
